@@ -15,4 +15,4 @@ This repository contains "Path Planning Algorithms for Mobile Robots," a collect
   
 **Below is an example of PRM:**
   
- ![PRM](https://github.com/mdsamirhussain/MobileRobot-PathPlanners/assets/115653635/d11bde43-8199-42b0-ac30-b4869a0a462c)
+ <img src="https://raw.githubusercontent.com/mdsamirhussain/MobileRobot-PathPlanners/main/images/RRT.png" width="400" height="300">
