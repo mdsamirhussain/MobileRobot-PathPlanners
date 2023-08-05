@@ -1,11 +1,4 @@
 
-"""
-King's College London 
-6CCE3ROS & 7CCEMROB Robotic Systems 
-Week 28 Tutorial Question 2 Solution
-Path planning Sample Code with Randomized Rapidly-Exploring Random Trees (RRT)
-"""
-
 import math
 import random
 
