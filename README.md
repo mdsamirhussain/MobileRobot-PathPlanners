@@ -16,7 +16,7 @@ This repository contains "Path Planning Algorithms for Mobile Robots," a collect
 - **PRM (Probabilistic Roadmap)**: Randomly samples nodes in the configuration space and constructs a graph by connecting the nodes. The sampling is carried out within a bounded configuration space, confined to a finite area of choice. This method includes a collision detection algorithm to ensure the robot avoids obstacles. Once the graph is constructed, graph traversal algorithms such as Dijkstra's or A* can be used to query a path from the start node to the goal node within the graph.
 - **PRM***: The optimal variant of the PRM algorithm, designed to find a more efficient path using a heuristic to guide the search by employing the A* algorithm. 
 
- **Below is an example of PRM:**
+**Below is an example of PRM:**
   
  <img src="https://raw.githubusercontent.com/mdsamirhussain/MobileRobot-PathPlanners/main/images/PRM-Dijkstra.png" width="400" height="300">
 
