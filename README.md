@@ -23,7 +23,7 @@ This repository contains "Path Planning Algorithms for Mobile Robots," a collect
  ## A* Algorithm
  -  A* algorithm is an optimal pathfinding algorithm which uses additional heuristics to find the shortest path in a 2D environment. It doesn't necessarily create a graph, it directly searches the space from start to goal, using whatever representation of the problem space is provided due to it being able to work on various data structures. The heuristic function is used for prioritising the search for the algorithm to explore the most essential nodes first. This algorithm also finds its use cases for various types of graphs, meshes and roadmaps.
 
-**Below is an example of A* Algorithm:**
+**Below is an example of A-star Algorithm:**
 
 <img src="https://raw.githubusercontent.com/mdsamirhussain/MobileRobot-PathPlanners/main/images/Astar.png" width="400" height="300">
  
